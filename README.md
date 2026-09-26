@@ -1,6 +1,8 @@
 # Customer Cohort Retention Analysis
 ### Olist Brazilian E-Commerce Dataset
 
+<img width="741" height="329" alt="Customer Cohort Retention" src="https://github.com/user-attachments/assets/41e700dc-1803-405f-9e14-c0647db9cfef" />
+
 ## Project Summary
 A cohort-based retention analysis of ~99,000 orders from Olist, a Brazilian 
 e-commerce marketplace. The project traces customer purchasing behavior over 
